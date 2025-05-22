@@ -35,6 +35,8 @@ Originally based on a tutorial to understand core mechanics. I expanded it with 
 1. Clone the repo:
    ```bash
    git clone https://github.com/FunnyMartin/Tetris.git
+2. Open the folder in Unity (tested with Unity 2021+)
+3. Click Play in the editor or build for your system
 
 ---
 
