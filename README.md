@@ -26,9 +26,7 @@ Originally based on a tutorial to understand core mechanics. I expanded it with 
 
 ## 📸 Preview
 
-> *(Add an image or short GIF here)*  
-> Example:  
-> ![Tetris Screenshot](./screenshot.png)
+> ![Tetris Screenshot](./tetris.png)
 
 ---
 
