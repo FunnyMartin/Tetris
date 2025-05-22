@@ -44,3 +44,11 @@ The code in this repository is released under the MIT License.
 
 ⚠️ Note: The artwork used in this project is not covered by the MIT license.
 It is custom work created by a third party artist and used here with permission. You are not allowed to reuse or redistribute this art unless you have separate permission from the artist.
+
+---
+
+## 🙌 Credits
+
+- The game mechanics were based on an online Unity Tetris tutorial (exact source not available).
+- Custom artwork and design by a third party artist (used with permission).
+- Audio from various sources (exact credits not available).
