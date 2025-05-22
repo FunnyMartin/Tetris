@@ -35,3 +35,12 @@ Originally based on a tutorial to understand core mechanics. I expanded it with 
 1. Clone the repo:
    ```bash
    git clone https://github.com/FunnyMartin/Tetris.git
+
+---
+
+## 📄 License
+
+The code in this repository is released under the MIT License.
+
+⚠️ Note: The artwork used in this project is not covered by the MIT license.
+It is custom work created by a third party artist and used here with permission. You are not allowed to reuse or redistribute this art unless you have separate permission from the artist.
